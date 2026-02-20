@@ -2,6 +2,21 @@
 
 **Date:** February 13, 2026
 
+**Attendees:**
+
+* Gordon Harris
+* Rob Lewis
+* Alireza Sedghi
+* Andrey Fedorov
+* Benoit Tricot
+* Bill Wallace
+* Dan Rukas
+* Denny Spiegelberg
+* Salim Kanoun
+* Simon Doran
+* Ouwen Huang
+* James Hanks
+
 ---
 
 ## **1\. Community Quality & Feedback**
